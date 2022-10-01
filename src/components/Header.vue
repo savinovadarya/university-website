@@ -31,11 +31,7 @@
 		flex-direction: row;
 		align-items: center;
 		justify-content: space-between;
-		padding: 24px 24px 24px 24px;
-		// &__logo {
-		// }
-		// &__nav {
-		// }
+		padding: 24px 0px 24px 0px;
 	}
 	.logo {
 		display: flex;
@@ -59,8 +55,6 @@
 		// }
 	}
 	// .nav {
-	// 	&__list {
-	// 	}
 	// }
 	.list {
 		display: flex;
